@@ -1,0 +1,16 @@
+{
+  "giphy_api_token": "[giphy_api_token]",
+  "search_terms": [
+    "celebrate",
+    "praise",
+    "applause",
+    "commend",
+    "honor",
+    "laud",
+    "proclaim",
+    "bless",
+    "mind blown",
+    "awesome"
+  ],
+  "output_dir": "./assets/gifs/"
+}
